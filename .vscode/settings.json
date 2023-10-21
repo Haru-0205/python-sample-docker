@@ -1,0 +1,13 @@
+{
+  "git.autofetch": true,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.activityBar.visible": true,
+  //見た目
+  "workbench.colorTheme": "Night Soft",
+  "editor.minimap.enabled": true,
+  "editor.minimap.autohide": true,
+  "editor.minimap.renderCharacters": false
+}

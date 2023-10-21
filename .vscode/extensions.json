@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "oderwat.indent-rainbow",
+        "notiv.night-soft",
+        "wayou.vscode-todo-highlight",
+        "gruntfuggly.todo-tree",
+        "ms-python.vscode-pylance",
+        "esbenp.prettier-vscode",
+        "michaelcurrin.auto-commit-msg"
+    ]
+}
